@@ -1,5 +1,6 @@
+![Banner](https://github.com/Luzivam32/VamWorld/blob/main/static/imgs/6406363.jpg?raw=true)
 ### Hi there 👋
-
+:tv:
 <!--
 **Luzivam32/Luzivam32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
