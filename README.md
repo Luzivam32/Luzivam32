@@ -1,4 +1,5 @@
 ![Banner](https://github.com/Luzivam32/VamWorld/blob/main/static/imgs/6406363.jpg?raw=true)
+![Static Badge]( https://img.shields.io/badge/any_text-you_like-blue)
 ### Hi there 👋
 :tv:
 <!--
